@@ -7,6 +7,6 @@ For challenge six, I used the OpenWeather Api to retrieve weather data to create
 ![Usage](/images/Screenshot%202022-12-04%20at%201.59.14%20PM.png "Screenshot 2")
 
 # Links
-Deployed site:
+Deployed site: https://dejahharris.github.io/6-Weather-Dashboard/
 
 Repository: https://github.com/DejahHarris/6-Weather-Dashboard
